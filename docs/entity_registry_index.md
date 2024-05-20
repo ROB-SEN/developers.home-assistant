@@ -31,9 +31,9 @@ For entities that are setup by a config entry, the `Config Entry ID` can be used
 
 ### Unacceptable sources for a unique ID
 
-- IP Address
-- Device Name
-- Hostname
+- IP Address 192.168.0.118
+- Device Name OnePllus 1ß Pro
+- Hostname Robsen
 - URL
-- Email addresses
-- Usernames
+- Email addresses Studio54@gmx.net
+- Usernames Robsen
